@@ -3,5 +3,5 @@
 Se quiser ver outros projetos feitos por mim, recomendo que confira os demais! :)</p>
 
 <div align = "center">
-[<img src="imgs/joinha.gif" alt= "video/mp4">]("https://github.com/RikeGIT/praticando-git")
+  [<img src="imgs/joinha.gif" alt= "video/mp4">]("https://github.com/RikeGIT/praticando-git")
 </div>
