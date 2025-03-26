@@ -3,4 +3,4 @@
 Se quiser ver outros projetos feitos por mim, recomendo que confira os demais! :)</p>
 
 
-[<img src="imgs/joinha.gif" width = "250" height = "250" border_radius = "15" alt= "video/mp4">]("https://github.com/RikeGIT/praticando-git")
+[<img src="imgs/joinha.gif" width = "250" height = "250" border-radius = "15" alt= "video/mp4">]("https://github.com/RikeGIT/praticando-git")
